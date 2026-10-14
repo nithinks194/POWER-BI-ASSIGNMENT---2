@@ -2,6 +2,7 @@
 **E-Commerce Sales Data Analysis**
 
 **Calculated  Columns**
+
 * Create a Calculated column for 'Category Type'.
 
 * Calculate Revenue Per Order in 'Order Details Table'
@@ -26,12 +27,12 @@
    
   * Comparison of Profit and Quantity by Sub-Category
    
-    * Comparison of Total Sales Amount and Target
+  * Comparison of Total Sales Amount and Target
    
-    * Sales Performance Matrix
+  * Sales Performance Matrix
    
-    * Geographical Sales Analysis
+  * Geographical Sales Analysis
    
-    * Sales Distribution by Sub-Category
+  * Sales Distribution by Sub-Category
    
-    * Order Count Analysis by State
+  * Order Count Analysis by State
