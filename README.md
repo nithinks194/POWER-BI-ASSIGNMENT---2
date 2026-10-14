@@ -18,13 +18,13 @@
  
   **Data Visualization**
 
-    * Sales Target Achievement by Category
+  * Sales Target Achievement by Category
    
-    * Max Profit Margin by Sub-Category
+  * Max Profit Margin by Sub-Category
    
-    * Monthly Sales Trend
+  * Monthly Sales Trend
    
-    * Comparison of Profit and Quantity by Sub-Category
+  * Comparison of Profit and Quantity by Sub-Category
    
     * Comparison of Total Sales Amount and Target
    
