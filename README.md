@@ -1,14 +1,14 @@
 # POWER-BI-ASSIGNMENT---2
 **E-Commerce Sales Data Analysis**
 
-Calculated  Columns
+**Calculated  Columns**
 * Create a Calculated column for 'Category Type'.
 
 * Calculate Revenue Per Order in 'Order Details Table'
 
 * Create a Calculated Column to Categorize Sales
-
-  Calculated Measures
+ 
+ **Calculated Measures**
 
   * Calculate Order Count
  
@@ -16,7 +16,7 @@ Calculated  Columns
  
   * Calculate YTD Sales
  
-    Data Visualization
+  **Data Visualization**
 
     * Sales Target Achievement by Category
    
