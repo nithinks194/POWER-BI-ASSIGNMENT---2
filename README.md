@@ -18,7 +18,7 @@
  
   **Data Visualization**
 
-    * Sales Target Achievement by Category
+    *Sales Target Achievement by Category
    
     * Max Profit Margin by Sub-Category
    
